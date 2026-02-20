@@ -1,5 +1,3 @@
-# personalized-cover-letter-generator-himansi
-
 # 🎨 CoverLetter AI Pro – Frontend Module
 
 This repository contains the complete frontend implementation of the **CoverLetter AI Pro** project.
